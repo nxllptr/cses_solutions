@@ -5,16 +5,16 @@ My solutions for various [CSES Problems](https://cses.fi/problemset/list/)
 
 | Title  | Solved | Total |
 |-------|-----|----------|
-| Introductory Problems | | |
+| Introductory Problems | 13 | |
 | Sorting and Searching | | |
-| Dynamic Programming | | |
+| Dynamic Programming | 4 | |
 | Graph Algorithms | | |
 | Range Queries | | |
 | Tree Algorithms | | |
 | Mathematics | | |
 | String Algorithms | | |
 | Geometry | | |
-| Advanced Techniques | | |
+| Advanced Techniques | 1 | |
 | Sliding Window Problems | | |
 | Interactive Problems | | |
 | Bitwise Operations | | |
